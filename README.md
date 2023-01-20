@@ -15,7 +15,7 @@ It connects someone who wishes to dispose of recyclable materials with someone w
 * The software is designed for two categories of users: recyclers and those looking to dispose of recyclable things.
 * Because both roles are interchangeable, a person can post an item for someone else to pick up while also picking up a recyclable item of their choice.
 ---
-## Showing the app functionalities - [video](https://www.loom.com/share/a07a0500c7e9403092cd41dc20787a55/)
+## Showing the app functionalities - [video](https://www.loom.com/share/a07a0500c7e9403092cd41dc20787a55)
 
 
 
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/97359453/213801676-51fd6b7d-c859-4c7e-
 ---
 
 ### Do you want to test the app?
-You can create a new account by clicking [sign-up](https://polar-meadow-21503.herokuapp.com/users/sign_up) or [login]https://polar-meadow-21503.herokuapp.com/users/sign_in) using the following account information:
+You can create a new account by clicking [sign-up](https://polar-meadow-21503.herokuapp.com/users/sign_up) or [login](https://polar-meadow-21503.herokuapp.com/users/sign_in) using the following account information:
 > Email: carlos@example.com\
 > Password: password
 
