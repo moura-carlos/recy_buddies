@@ -15,9 +15,13 @@ It connects someone who wishes to dispose of recyclable materials with someone w
 * The software is designed for two categories of users: recyclers and those looking to dispose of recyclable things.
 * Because both roles are interchangeable, a person can post an item for someone else to pick up while also picking up a recyclable item of their choice.
 ---
-## Showing the app functionalities - video
+## Showing the app functionalities - [video](https://www.loom.com/share/a07a0500c7e9403092cd41dc20787a55)
 
-https://user-images.githubusercontent.com/97359453/213794247-1788b234-857e-4e1d-a27a-bfefc8584703.mp4
+
+
+https://user-images.githubusercontent.com/97359453/213801676-51fd6b7d-c859-4c7e-adfd-e4d18fe0a6b9.mp4
+
+
 
 ---
 
