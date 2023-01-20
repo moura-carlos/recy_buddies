@@ -30,7 +30,7 @@ gem 'pundit'
 gem 'bootsnap', '>= 1.4.4', require: false
 
 gem 'autoprefixer-rails', '10.2.5'
-gem 'font-awesome-sass'
+gem 'font-awesome-sass', '~> 6.2', '>= 6.2.1'
 gem 'simple_form'
 gem 'faker'
 group :development, :test do
